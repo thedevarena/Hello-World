@@ -14,6 +14,12 @@ However, we welcome code snippets in any programming language. If you don't see 
 
 Thank you for contributing!
 
+## Need Help?
+
+If you have any questions or need help with this repository, please feel free to join our Discord server
+
+<a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" width="350px"> 
+
 ## Support
 - [![Tweet](https://oyepriyansh.pages.dev/i/tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=If%20you%27re%20interested%20in%20contributing%20to%20open-source%20and%20want%20to%20add%20some%20green%20squares%20to%20your%20contribution%20graph,%20check%20out%20this%20%23GitHub%20repository%20https%3A%2F%2Fgithub.com%2FTheDevArena%2FHello-World%20%23opensource)
 - Please show your support by leaving a star⭐ on the repository.
