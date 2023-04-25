@@ -15,5 +15,5 @@ However, we welcome code snippets in any programming language. If you don't see 
 Thank you for contributing!
 
 ## Support
-- [![Tweet](https://oyepriyansh.pages.dev/i/tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=If%20you%27re%20interested%20in%20contributing%20to%20open-source,%20check%20out%20this%20GitHub%20repository%3A%20https%3A%2F%2Fgithub.com%2FTheDevArena%2FHello-World%20%23opensource&hashtags=opensource)
-- Please show your support by leaving a star ⭐ on the repository.
+- [![Tweet](https://oyepriyansh.pages.dev/i/tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=If%20you%20are%20interested%20in%20contributing%20to%20open-source,%20check%20out%20this%20GitHub%20repository:%20https%3A%2F%2Fgithub.com%2FTheDevArena%2FHello-World%20%23opensource)
+- Please show your support by leaving a star⭐ on the repository.
