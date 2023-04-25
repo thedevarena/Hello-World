@@ -1,6 +1,6 @@
-# Code Snippets Repository
+# Hello World
 
-Welcome to our code snippets repository! This repository is a collection of code snippets in various programming languages. We welcome contributions from the community in any language!
+Welcome to our repository! This repository is a collection of code snippets in various programming languages. We welcome contributions from the community in any language!
 
 ## Contributing
 
